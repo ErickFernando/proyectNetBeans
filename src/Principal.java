@@ -21,5 +21,6 @@ public class Principal {
         System.out.println("Y ahora hace ruido el gato");
         gato.hacerRuido();
         System.out.println("Añadimos cambios al proyecto");
+System.out.println("Añadimos el 2do cambio al proyecto");
     }
 }
